@@ -1,0 +1,21 @@
+name: HyperiumPotionEnchants
+version: '${project.version}'
+main: us.hyperiummc.hyperiumpotionenchants.hyperiumpotionenchants.HyperiumPotionEnchants
+api-version: 1.17
+authors: [ ItzRade ]
+description: Hyperium Potion Enchants
+depend: [ArmorEquipEvent]
+commands:
+  hpenchants:
+    usage: /<command> reload
+  ce:
+    usage: /<command>
+    aliases:
+      - pe
+      - customenchants
+      - potionenchants
+      - enchants
+      - xpshop
+      - expshop
+      - enchanter
+      - itemenchants

@@ -1,0 +1,106 @@
+allowed-worlds:
+  - PSpawn
+  - CellWorld
+  - Darkzone
+enchants:
+  speed:
+    cost: 65
+    name: '&b&lSPEED STAR'
+    lore:
+      - ''
+      - '&7Grants &bSpeed II&7.'
+      - ''
+      - '&9&lAPPLIES TO: &7Boots'
+      - ''
+      - '&9Usage:'
+      - '&8➥ &7Drag and drop to apply.'
+      - ''
+  fire:
+    cost: 45
+    name: '&c&lFIRE RESISTANCE STAR'
+    lore:
+      - ''
+      - '&7Grants &cFire Resistance&7.'
+      - ''
+      - '&9&lAPPLIES TO: &7Leggings'
+      - ''
+      - '&9Usage:'
+      - '&8➥ &7Drag and drop to apply.'
+      - ''
+  strength:
+    cost: 100
+    name: '&4&lSTRENGTH STAR'
+    lore:
+      - ''
+      - '&7Grants &4Strength I&7.'
+      - ''
+      - '&9&lAPPLIES TO: &7Chestplates'
+      - ''
+      - '&9Usage:'
+      - '&8➥ &7Drag and drop to apply.'
+      - ''
+  health:
+    cost: 85
+    name: '&6&lHEALTH BOOST STAR'
+    lore:
+      - ''
+      - '&7Grants &6Health Boost I&7.'
+      - ''
+      - '&9&lAPPLIES TO: &7Helmets'
+      - ''
+      - '&9Usage:'
+      - '&8➥ &7Drag and drop to apply.'
+      - ''
+  wither:
+    cost: 100
+    name: '&5&lWITHER STAR'
+    lore:
+      - ''
+      - '&7Grants your attacks the chance'
+      - '&7to &5wither &7your opponent.'
+      - ''
+      - '&9&lAPPLIES TO: &7Swords'
+      - ''
+      - '&9Usage:'
+      - '&8➥ &7Drag and drop to apply.'
+      - ''
+  freeze:
+    cost: 100
+    name: '&9&lFREEZE STAR'
+    lore:
+      - ''
+      - '&7Grants your attacks the chance'
+      - '&7to &9slow &7your opponent.'
+      - ''
+      - '&9&lAPPLIES TO: &7Swords'
+      - ''
+      - '&9Usage:'
+      - '&8➥ &7Drag and drop to apply.'
+      - ''
+  poisontouch:
+    cost: 100
+    name: '&2&lPOISON TOUCH STAR'
+    lore:
+      - ''
+      - '&7Grants your arrows the chance'
+      - '&7to &2poison &7your opponent.'
+      - ''
+      - '&9&lAPPLIES TO: &7Bows'
+      - ''
+      - '&9Usage:'
+      - '&8➥ &7Drag and drop to apply.'
+      - ''
+  blinding:
+    cost: 100
+    name: '&e&lBLINDING STAR'
+    lore:
+      - ''
+      - '&7Grants your arrows the chance'
+      - '&7to &eblind &7your opponent.'
+      - ''
+      - '&9&lAPPLIES TO: &7Bows'
+      - ''
+      - '&9Usage:'
+      - '&8➥ &7Drag and drop to apply.'
+      - ''
+cost-lore: '&9&lCOST: &b%levels% &7EXP Levels'

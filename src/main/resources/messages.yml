@@ -1,0 +1,15 @@
+messages:
+  unknown-command: "&9&lHN &8» &7Unknown command. Type &9''/help'' &7for help."
+  inventory: '&9&lPOTION ENCHANTS'
+  cost: '&9&lCOST: &b%levels% &7EXP Levels'
+  not-enough-xp: '&9&lENCHANTS &8» &7You don''t have enough &bEXP&7.'
+  purchase-success: '&9&lENCHANTS &8» &7Successfully purchased an enchantment star for &b%levels% &7EXP Levels.'
+  already-has-enchant: '&9&lENCHANTS &8» &7This item already has this enchantment.'
+  wrong-item: '&9&lENCHANTS &8» &7This enchantment is only for &b%type%&7.'
+enchants:
+  helmet: "&9&lHELMET ENCHANTS"
+  chestplate: "&9&lCHESTPLATE ENCHANTS"
+  leggings: "&9&lLEGGINGS ENCHANTS"
+  boots: "&9&lBOOTS ENCHANTS"
+  sword: "&9&lSWORD ENCHANTS"
+  bow: "&9&lBOW ENCHANTS"
